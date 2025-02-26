@@ -19470,11 +19470,11 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARSSURBVHgB7Z2NUeMwEIWVmyuAEiiBEqAD6IAOgAqACqAD6AA6gA4oATqADnJaZuKRdXZW/35y3pvZuQsT/+nz7kpay9mYTG2tDDVoY2Uy9MdQUCIQMBEImKLjHXNGnGJzCj0ETAQCJgIBkxrfcnNGZrccTrkpVMsp9BAwEQiYCARM/8Uz5ow4lc4p9BAwEQiYCARMG+aMssrNKfQQMBEImAgETH9NpJgz9stvn9icQg8BE4GAiUDApOYQ5ow8xeaUJh7y8vLyeyIp9v39bY6Pj00LyXE+Pz9Hxz85OTFNtVUkX8m1o6Ojrb3Qbare3t6KnId2jh8fH6PjXl9fFz+OJnXqpFTIOj09NbZhh8+vr6/m5+dH3WbnHTc3N+bx8dHU0tPTk7m8vBw+39/fm7u7O1NaW60brBEzBe8O26DDfh8eHoLuWhuyhm1s+Ch+x4rd3t6OrlnOs8ZxApp72xSIH7qsB6jbnJ+fD9+XkCL7qAlDjlFy/9BAxATCTgInpIFjPSvUXNgx57MqICkNnOJZmtncNAqHsn/5W43rhQfiN7Dcqdo2KZ61D4Z7fAFTKz91AURMGsBtkFaha6oLbntX1a6zGyBitls5HMcOHqMbMyV0yXFcyTnUvMaugIi5g7GQgVhO6PJ7VK1hdAHETa7yb0hidUOXHdAlwQjxyIMEIiaesVPINIk/zaF1Cpbo3nYNRExA7BQSuvxOwZxnLdW97R5ISujSPGuqe7skjK6AhDTwlM151lT3NmS8QyCBDTxnc561dPd2NUD8mB8ygvY9SwaNiDC6BCLmz/CGbON6lqulurerAiLmhpyQaRLfs0RLdm9XByRlmsQNXQg9qlUBEUuZJnFDF1LuWAUQMdSy78ECyS37ouWR7oGIIZV9CSSxgWuUfQlkTwO3LvsSyIQtVfYlkBnzZ29DaydIoWs1QHwYO9Uu+xLIjPkPQu9Us+xLIDM2NXubUjuJKfsSyIztexC6VtmXQGbs6upqdC7+VHyNsi+BGP1uFs09nFCy7EsgMxb7pEipsi+BzDSW373VZmxLlH1bXV9XQHLW+aUs7FkidHUFRMYHrmILTM/Pz8O2sWXfVqGrGyAl1vnlln1rL2frBkjJdX4p0yTuAxW1y77wQGo8CI1c9oUGUutBaOSyLyyQ2uv8UMu+kEBarfNDLPtCAmn1IHTswh6x2rUTOCCt1/mhlX01NXv5jMjCGL3QRV5Ac3FxYWrLjjWMbdjf/399fZn39/e937fQjPWm4fPZ2Zm6TaiU5jbNPGTpdX5zT8eHqOS5qu2tfqHASSCs85t6Oj5GpZY1aGoasig9ZKnvXPR3QEBx0gD44ltJwUQgYCIQMEW/+505Zb9ic4YvegiYCARMBAIm/o5hpnJzBn/HEFwEAiYCARN/Tz1SpXOGL3oImAgETAQCpugAn5tTDk2byCRKDwETgYCJQMCUPUhgThlrkznwooeAiUDARCBg+gcNV2johC2rTQAAAABJRU5ErkJggg==",
   aE = "",
   l0 =
-    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet",
+    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet",
   ui = "https://coinsult.net/projects/bobuki-neko/",
-  E8 = "0x00000000000000000000000000000000000000",
+  E8 = "0x8d5C6B4838D20547925543d9DAe0a1A059b54e76",
   u0 =
-    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet",
+    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet",
   c0 = l0,
   ec =
     "https://x.com/bobuki_eth",
@@ -19496,14 +19496,14 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
     howtoget: "howtoget",
   },
   di = [
-    { img: XA, url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet" },
+    { img: XA, url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet" },
     { img: qA, url: "https://x.com/bobuki_eth" },
     { img: JA, url: "https://dextools.io" },
-    { img: CE, url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000" },
-    { img: eE, url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet" },
+    { img: CE, url: "https://dexscreener.com/ethereum/0x8d5C6B4838D20547925543d9DAe0a1A059b54e76" },
+    { img: eE, url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet" },
     { img: tE, url: "https://x.com/bobuki_eth" },
     { img: nE, url: "https://dextools.io" },
-    { img: rE, url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000" },
+    { img: rE, url: "https://dexscreener.com/ethereum/0x8d5C6B4838D20547925543d9DAe0a1A059b54e76" },
   ],
   cE = (C) => ({
     phase1: {
@@ -19591,7 +19591,7 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
       answer: `${C("FAQ_1_DETAILS")} (${C(
         "Buy on"
       )} 
-      <a style='color: #0EC9E3' href='https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet' target='_blank'>${C(
+      <a style='color: #0EC9E3' href='https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet' target='_blank'>${C(
         "Uniswap"
       )}</a>
     )`,
@@ -24248,7 +24248,7 @@ const Ak = () => {
               }),
               u.jsxs("div", {
                 className: e(C.link, C.howtogetLink),
-                onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet", "_blank"),
+                onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet", "_blank"),
                 children: [
                   u.jsx(x1, {
                     variant: "h5",
@@ -24326,7 +24326,7 @@ const Ak = () => {
                   u.jsxs("div", {
                     className: e(C.link, C.howtogetLink, C.mobileLink),
                     style: { flexDirection: "column" },
-                    onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet", "_blank"),
+                    onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet", "_blank"),
                     children: [
                       u.jsx(x1, {
                         variant: "h3",
@@ -24365,7 +24365,7 @@ const Ak = () => {
                 }),
                 u.jsx(n6, {
                   className: C.btnInstagram,
-                  onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet", "_blank"),
+                  onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8d5C6B4838D20547925543d9DAe0a1A059b54e76&chain=mainnet", "_blank"),
                 }),
                 u.jsx(n6, {
                   className: C.btnDecxTools,
@@ -25250,7 +25250,7 @@ const Bk = X3()(() => ({
                   className: C.stepContainer,
                   children: u.jsx("div", {
                     className: e(C.step, "pinkpaw"),
-                    onClick: () => window.open("https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000", "_blank"),
+                    onClick: () => window.open("https://dexscreener.com/ethereum/0x8d5C6B4838D20547925543d9DAe0a1A059b54e76", "_blank"),
                     children: u.jsxs("div", {
                       style: { display: "flex", gap: "1rem" },
                       children: [
@@ -25370,7 +25370,7 @@ const Bk = X3()(() => ({
                   u.jsx("div", {
                     className: C.linkContainer,
                     style: { background: "#F95093" },
-                    onClick: () => window.open("https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000", "_blank"),
+                    onClick: () => window.open("https://dexscreener.com/ethereum/0x8d5C6B4838D20547925543d9DAe0a1A059b54e76", "_blank"),
                     children: u.jsxs("div", {
                       style: { position: "relative" },
                       children: [
