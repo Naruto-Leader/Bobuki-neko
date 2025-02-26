@@ -19484,7 +19484,7 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
   tc = "https://x.com/bobuki_eth",
   o9 = "./BOBUKINEKOWHITEPAPER.pdf",
   uE =
-    "https://www.dextools.io/app/en/ether/pool-explorer/",
+    "https://www.dextools.io/app/en/ether/pair-explorer/0x68f5f5164351f44c68d497fef030690f4ca00f70?t=1740559749862",
   e3 = {
     home: "home",
     about: "about",
@@ -24369,7 +24369,7 @@ const Ak = () => {
                 }),
                 u.jsx(n6, {
                   className: C.btnDecxTools,
-                  onClick: () => window.open("https://www.dextools.io/app/en/ether/pool-explorer/", "_blank"),
+                  onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x68f5f5164351f44c68d497fef030690f4ca00f70?t=1740559749862", "_blank"),
                 }),
                 u.jsx("img", { src: QA, className: C.icon }),
                 u.jsx("img", { src: KA, className: C.icon }),
@@ -25227,7 +25227,7 @@ const Bk = X3()(() => ({
                   className: C.stepContainer,
                   children: u.jsxs("div", {
                     className: e(C.step, "brownpaw"),
-                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pool-explorer/", "_blank"),
+                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x68f5f5164351f44c68d497fef030690f4ca00f70?t=1740559749862", "_blank"),
                     children: [
                       u.jsxs("div", {
                         style: { display: "flex", gap: "1rem" },
@@ -25344,7 +25344,7 @@ const Bk = X3()(() => ({
                   u.jsx("div", {
                     className: C.linkContainer,
                     style: { background: "#F6D396" },
-                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pool-explorer/", "_blank"),
+                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x68f5f5164351f44c68d497fef030690f4ca00f70?t=1740559749862", "_blank"),
                     children: u.jsxs("div", {
                       style: { position: "relative" },
                       children: [
